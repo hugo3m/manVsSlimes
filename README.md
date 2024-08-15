@@ -1,6 +1,4 @@
-# Man_vs_Slimes
-
-## [Play the game](https://playcanv.as/p/5b4da0ee/)
+# Man_vs_Slimes: [Play the game](https://playcanv.as/p/5b4da0ee/)
 
 ## Description
 
